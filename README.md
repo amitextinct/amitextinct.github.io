@@ -1,2 +1,2 @@
-# amitextinct.github.io
-url : amit.lol
+amitextinct.github.io
+
